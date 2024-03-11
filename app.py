@@ -38,7 +38,7 @@ def predict_datapoint():
         predict_pipeline=PredictPipeline()
         results=predict_pipeline.predict(pred_df)
         re=results[0]
-        round_re=round(re,3)
+        round_re=round(re,3)-2
         return render_template('prediction.html',results=round_re)
 
 @app.route('/about')
