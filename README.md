@@ -3,7 +3,10 @@
 ## Overview
 
 This repository contains the code and resources for an end-to-end Used Car Price Prediction project. The goal of this project is to predict the price of used cars based on various features such as model, brand, year, mileage, and more.
-the project is live at https://usedcarprice.onrender.com/
+the project is live at Azure: https://carpricepredict.azurewebsites.net/
+
+![image](https://github.com/user-attachments/assets/30f6a3b7-0a17-4f3c-a73c-1796095113c2)
+
 
 ## Project Structure
 
