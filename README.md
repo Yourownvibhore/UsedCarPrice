@@ -1,5 +1,8 @@
 # Used Car Price Prediction
 
+
+## UPDATE:- Our website is currently down due to an exhausted cloud hosting quota. We are actively working to migrate and deploy our services to a new provider. We sincerely apologize for any inconvenience and appreciate your patience.
+
 ## Overview
 
 This repository contains the code and resources for an end-to-end Used Car Price Prediction project. The goal of this project is to predict the price of used cars based on various features such as model, brand, year, mileage, and more.
